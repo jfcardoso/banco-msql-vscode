@@ -1,4 +1,4 @@
-### Desafio de Dio - Git/GitHub
+### Desafio da Dio - Git/GitHub
 
 ## Exercícios Básicos - Bancos de Dados Relacional
 
